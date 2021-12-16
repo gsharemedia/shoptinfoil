@@ -1,5 +1,5 @@
-### Ultimate server by carcaschoi
-一 One of the parts of [ShallowSea AIO Package](https://github.com/carcaschoi/ShallowSea) Project
+### Ultimate server by HDMax2013
+一 One of the parts of [HDMax Shop AIO Package](https://github.com/gsharemedia/shoptinfoil) Project
 ### Introduction & Features
 ** just to clarify, IT IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY. 
 * Ultimate server redirects to other alternative shops automatically, so you don't need to add shop manually if the shop links are updated.
@@ -15,7 +15,7 @@ Then adding this Ulimate server in [tinfoil](https://tinfoil.io). It will auto a
 ```
 Protocol: https
 Host: raw.githubusercontent.com
-Path: carcaschoi/tinfoil-json/master/tinfoilshop.json
+Path: gsharemedia/shoptinfoil/main/tinfoilshop.json
 Titles: HDMax Shop
 ```
 Video: https://www.youtube.com/channel/UCbw5Z9GuiGdSVcZgqQe6m0g
